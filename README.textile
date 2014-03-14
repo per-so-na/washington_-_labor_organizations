@@ -1,0 +1,1 @@
+This should produce a list of Labor Organizations in the state of Washington, USA, using the YellowPages dot com business search page
